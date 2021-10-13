@@ -1,1 +1,4 @@
-Aqui trabalhamos com adicionar pelo INPUT e fazer a exclusão de tarefas, usando o explorando o DOM, e usando a memória do navegador.
+*ListaDeTarefas*
+=========
+
+Cria uma lista para auxiliar nas tarefas no dia a dia
